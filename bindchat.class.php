@@ -24,6 +24,8 @@ class plugin_bindchat_livechat {
         $bindchat_livechat_siteid = htmlspecialchars($plugin_bindchat_livechat['bindchat_livechat_siteid']);
         $bindchat_livechat_sitedomain  = htmlspecialchars($plugin_bindchat_livechat['bindchat_livechat_sitedomain']);
 
+        $return = '';
+
         if($bindchat_livechat_siteid) {
 
             //include template('bindchat_livechat:widget');
