@@ -14,7 +14,7 @@
 			<item id="datatables"><![CDATA[]]></item>
 			<item id="directory"><![CDATA[bindchat_livechat/]]></item>
 			<item id="copyright"><![CDATA[必聊网]]></item>
-			<item id="version"><![CDATA[V1.0.1]]></item>
+			<item id="version"><![CDATA[V1.2.0]]></item>
 			<item id="__modules">
 				<item id="general">
 					<item id="name"><![CDATA[bindchat]]></item>
@@ -22,7 +22,7 @@
 					<item id="menu"><![CDATA[]]></item>
 					<item id="url"><![CDATA[]]></item>
 					<item id="type"><![CDATA[11]]></item>
-					<item id="adminid"><![CDATA[1]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
 					<item id="navtitle"><![CDATA[]]></item>
 					<item id="navicon"><![CDATA[]]></item>
 					<item id="navsubname"><![CDATA[]]></item>
